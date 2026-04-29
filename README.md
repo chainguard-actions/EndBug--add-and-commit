@@ -1,5 +1,7 @@
 # EndBug/add-and-commit
 
+:octocat: Automatically commit changes made in your workflow run directly to your repo
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/EndBug/add-and-commit](https://github.com/EndBug/add-and-commit).
 
 ## Versions
