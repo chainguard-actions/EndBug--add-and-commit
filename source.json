@@ -1,4 +1,6 @@
 {
-  "upstream": "EndBug/add-and-commit",
-  "version": "v10.0.0"
+  "owner": "EndBug",
+  "repo": "add-and-commit",
+  "version": "",
+  "url": "https://github.com/EndBug/add-and-commit"
 }
